@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: 50a28c3bbcda9f44ea126c91958bb13d
+timeCreated: 1447517780
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: shoot_0
+    21300002: shoot_1
+    21300004: shoot_2
+    21300006: shoot_3
+    21300008: shoot_4
+    21300010: shoot_5
+    21300012: shoot_6
+    21300014: shoot_7
+    21300016: shoot_8
+    21300018: shoot_9
+    21300020: shoot_10
+    21300022: shoot_11
+    21300024: shoot_12
+    21300026: shoot_13
+    21300028: shoot_14
+    21300030: shoot_15
+    21300032: shoot_16
+    21300034: shoot_17
+    21300036: shoot_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: shoot_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 684
+        width: 87
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_1
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 684
+        width: 94
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_2
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 684
+        width: 88
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_3
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 684
+        width: 92
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 684
+        width: 91
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_5
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 684
+        width: 96
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_6
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 684
+        width: 95
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 409
+        width: 96
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_8
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 409
+        width: 94
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_9
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 406
+        width: 93
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_10
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 406
+        width: 92
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_11
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 406
+        width: 93
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_12
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 406
+        width: 94
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_13
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 406
+        width: 96
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 107
+        width: 91
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_15
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 107
+        width: 92
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_16
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 107
+        width: 88
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_17
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 109
+        width: 94
+        height: 218
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shoot_18
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 107
+        width: 87
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
